@@ -1,0 +1,6 @@
+Cloud Computing
+David Lee
+2026-07-20
+Cloud computing provides storage over the internet.
+Cloud services include AWS Azure and Google Cloud.
+Cloud technology is growing rapidly.
